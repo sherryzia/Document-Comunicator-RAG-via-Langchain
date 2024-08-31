@@ -1,6 +1,4 @@
-Certainly! Here is the complete README.md content formatted properly for use on GitHub:
 
-```markdown
 # Document Communicator with Retrieval-Augmented Generation (RAG) via LangChain
 
 This project demonstrates how to use LangChain for building a question-answering system using Retrieval-Augmented Generation (RAG). The system allows users to input questions, and the system retrieves relevant context from a document to generate concise answers.
